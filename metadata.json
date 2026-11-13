@@ -1,0 +1,6 @@
+{
+  "name": "Aura Studio - Product Landing Page",
+  "description": "An interactive product landing page for Aura Studio smart desk lamp, featuring interactive color customizer, lighting mode preview, specs matrix, and order checkout.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
